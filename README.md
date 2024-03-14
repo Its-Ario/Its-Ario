@@ -1,5 +1,5 @@
 - 👋 Hi! Im Ario
 - 🏠 Tehran, Iran
-- ❓ Discord: Ario#5612
+- ❓ Discord: itsario_
 - 💻 Python, Java, JS Developer
 - ⛏️ Minecraft Server Developer
