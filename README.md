@@ -1,3 +1,3 @@
 - 👋 Hi! Im Ario
 - 🏠 Tehran, Iran
-- 💻 Python, C#, C++
+- 💻 Python, C#, JS, C++, HTML & CSS
